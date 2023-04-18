@@ -1,3 +1,5 @@
+### Just a heads up, I am using itzg/minecraft-server as base image
+
 # 1. Generate forge server files
 
 Apply the included docker-compose file
